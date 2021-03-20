@@ -5,7 +5,7 @@ GitHub repository for NMIT HACKS 2021
 
 
 
-Update: *5 municipal zone wise page added with code and resources used like css and htmlfile has been uploaded. Screen shots will be attached soon.*
+Update: Round 1 presentation done at 6:02pm on 20th March 2021. Been asked to make 2 changes based on the Judge's suggestions. Currently working on the same."
 
 
 Being interested in consumption and production of plastic for a few years now. I like to raise awareness about plastic's proper disposal, even if it means resharing an instagram post.  Being an ECE Branch student, I have taught myself web developement and learnt everything from scratch just to realise my dream of making a cleaner and non-toxic world for myself and everyone in it!!
