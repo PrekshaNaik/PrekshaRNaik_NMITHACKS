@@ -9,3 +9,6 @@ Implementation using : HTML5, CSS5 and Javascript
 
 Where this could be used? 
 Apartment committies and business corporations/ Schools and Colleges could sign up for such pick up services to ensure their plastic waste is disposed and segregated the right way. Every plastic is different and not all of them can be recycled/segregated the same way. So what to do for more information? Learn it through my web interface.
+
+
+Update: Home , about and info page has been coded and resources used like css and htmlfile has been uploaded. Screen shots will be attached soon.
